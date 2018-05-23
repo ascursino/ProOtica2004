@@ -1,0 +1,409 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Bem-vindo ao Pr&oacute; &Oacute;tica 2004">
+		<param name="Local" value="index.htm">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Introdu&ccedil;&atilde;o">
+			<param name="Local" value="introducao.htm">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Usando o Pr&oacute; &Oacute;tica 2004">
+		<param name="Local" value="usando.htm">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Cliente">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Consultando cadastros de clientes">
+				<param name="Local" value="cliente_cons.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Cadastrando um cliente">
+				<param name="Local" value="cliente_inc.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Alterando o cadastro de um cliente">
+				<param name="Local" value="cliente_alt.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Excluindo o cadastro de um cliente">
+				<param name="Local" value="cliente_exc.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Imprimindo relat&oacute;rio de clientes">
+				<param name="Local" value="cliente_imp.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Receita">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Consultando cadastros de receitas">
+				<param name="Local" value="receita_cons.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Cadastrando uma receita">
+				<param name="Local" value="receita_inc.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Alterando o cadastro de uma receita">
+				<param name="Local" value="receita_alt.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Excluindo o cadastro de uma receita">
+				<param name="Local" value="receita_exc.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Imprimindo relat&oacute;rio de receitas">
+				<param name="Local" value="receita_imp.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="M&eacute;dico">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Consultando cadastros de m&eacute;dicos">
+				<param name="Local" value="medico_cons.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Cadastrando um m&eacute;dico">
+				<param name="Local" value="medico_inc.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Alterando o cadastro de um m&eacute;dico">
+				<param name="Local" value="medico_alt.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Excluindo o cadastro de um m&eacute;dico">
+				<param name="Local" value="medico_exc.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Imprimindo relat&oacute;rio de m&eacute;dicos">
+				<param name="Local" value="medico_imp.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Fornecedor">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Consultando cadastros de fornecedores">
+				<param name="Local" value="fornecedor_cons.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Cadastrando um fornecedor">
+				<param name="Local" value="fornecedor_inc.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Alterando o cadastro de um fornecedor">
+				<param name="Local" value="fornecedor_alt.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Excluindo o cadastro de um fornecedor">
+				<param name="Local" value="fornecedor_exc.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Imprimindo relat&oacute;rio de fornecedores">
+				<param name="Local" value="fornecedor_imp.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Estoque">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Consultando cadastros de estoque">
+				<param name="Local" value="estoque_cons.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Cadastrando um estoque">
+				<param name="Local" value="estoque_inc.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Alterando o cadastro de um estoque">
+				<param name="Local" value="estoque_alt.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Excluindo o cadastro de um estoque">
+				<param name="Local" value="estoque_exc.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Imprimindo relat&oacute;rio de estoque">
+				<param name="Local" value="estoque_imp.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Configurando alerta de estoque">
+				<param name="Local" value="estoque_alerta_config.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Visualizando alerta de estoque">
+				<param name="Local" value="estoque_alerta_cons.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Imprimindo alerta de estoque">
+				<param name="Local" value="estoque_alerta_imp.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Produto">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Consultando cadastros de produtos">
+				<param name="Local" value="produto_cons.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Cadastrando um produto">
+				<param name="Local" value="produto_inc.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Alterando o cadastro de um produto">
+				<param name="Local" value="produto_alt.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Excluindo o cadastro de um produto">
+				<param name="Local" value="produto_exc.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Imprimindo relat&oacute;rio de produtos">
+				<param name="Local" value="produto_imp.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Credi&aacute;rio">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Consultando um credi&aacute;rio">
+				<param name="Local" value="crediario_cons.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Excluindo um credi&aacute;rio">
+				<param name="Local" value="crediario_exc.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Imprimindo relat&oacute;rio de credi&aacute;rios">
+				<param name="Local" value="crediario_imp.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Alterando parcelas de um credi&aacute;rio">
+				<param name="Local" value="crediario_alt.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Quitando parcelas de um credi&aacute;rio">
+				<param name="Local" value="crediario_quitar.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Crediarista">
+				<param name="ImageNumber" value="1">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Cadastrando um crediarista">
+					<param name="Local" value="crediarista_inc.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Alterando o cadastro de um crediarista">
+					<param name="Local" value="crediarista_alt.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Excluindo o cadastro de um crediarista">
+					<param name="Local" value="crediarista_exc.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Imprimindo relat&oacute;rio de crediaristas">
+					<param name="Local" value="crediarista_imp.htm">
+					</OBJECT>
+			</UL>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Caixa">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Consultando movimentos de caixa">
+				<param name="Local" value="caixa_cons.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Cadastrando um movimento de caixa">
+				<param name="Local" value="caixa_inc.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Alterando um movimento de caixa">
+				<param name="Local" value="caixa_alt.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Excluindo um movimento de caixa">
+				<param name="Local" value="caixa_exc.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Imprimindo relat&oacute;rio de movimentos de caixa">
+				<param name="Local" value="caixa_imp.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Contas a pagar">
+				<param name="ImageNumber" value="1">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Consultando cadastro de contas a pagar">
+					<param name="Local" value="caixa_apagar_cons.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Cadastrando uma conta a pagar">
+					<param name="Local" value="caixa_apagar_inc.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Alterando o cadastro de uma conta a pagar">
+					<param name="Local" value="caixa_apagar_alt.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Excluindo o cadastro de uma conta a pagar">
+					<param name="Local" value="caixa_apagar_exc.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Imprimindo relat&oacute;rio de contas a pagar">
+					<param name="Local" value="caixa_apagar_imp.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Baixando uma contas a pagar">
+					<param name="Local" value="caixa_apagar_baixa.htm">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Contas a receber">
+				<param name="ImageNumber" value="1">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Consultando cadastro de contas a receber">
+					<param name="Local" value="caixa_areceber_cons.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Imprimindo relat&oacute;rio de contas a receber">
+					<param name="Local" value="caixa_areceber_imp.htm">
+					</OBJECT>
+			</UL>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Extra">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Consultando e imprimindo op&ccedil;&otilde;es extras">
+				<param name="Local" value="extra_cons.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Or&ccedil;amento">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Consultando cadastros de or&ccedil;amento">
+				<param name="Local" value="orcamento_cons.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Cadastrando um or&ccedil;amento">
+				<param name="Local" value="orcamento_inc.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Alterando o cadastro de um or&ccedil;amento">
+				<param name="Local" value="orcamento_alt.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Excluindo o cadastro de um or&ccedil;amento">
+				<param name="Local" value="orcamento_exc.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Imprimindo um or&ccedil;amento">
+				<param name="Local" value="orcamento_imp.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Venda">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Consultando cadastros de venda">
+				<param name="Local" value="venda_cons.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Cadastrando uma venda">
+				<param name="Local" value="venda_inc.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Excluindo uma venda">
+				<param name="Local" value="venda_exc.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Imprimindo relat&oacute;rio de vendas">
+				<param name="Local" value="venda_imp.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Visualizando detalhe de uma venda">
+				<param name="Local" value="venda_detalhe.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Imprimindo um carn&ecirc;">
+				<param name="Local" value="venda_carne.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Vendedor">
+				<param name="ImageNumber" value="1">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Consultando cadastros de vendedores">
+					<param name="Local" value="vendedor_cons.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Cadastrando um vendedor">
+					<param name="Local" value="vendedor_inc.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Alterando o cadastro de um vendedor">
+					<param name="Local" value="vendedor_alt.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Excluindo o cadastro de um vendedor">
+					<param name="Local" value="vendedor_exc.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Imprimindo relat&oacute;rio de vendedores">
+					<param name="Local" value="vendedor_imp.htm">
+					</OBJECT>
+			</UL>
+		</UL>
+	</UL>
+</UL>
+</BODY></HTML>

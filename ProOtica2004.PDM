@@ -1,0 +1,239 @@
+[Root]
+Most Recent Package=Instalação do Pró Ótica 2004 (Standard)
+
+
+[Package|Instalação do Pró Ótica 2004 (Standard)|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Infodigital\Sistemas\ProOtica2004\Install_SetupIngles
+
+[Package|Instalação do Pró Ótica 2004 (Standard)|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Instalação do Pró Ótica 2004 (Standard)|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Instalação do Pró Ótica 2004 (Standard)|Files Found]
+
+[Package|Instalação do Pró Ótica 2004 (Standard)|Files Released]
+MSVBVM50.DLL=
+prootica2004.mdb=
+mac.skn=
+_copyright.dll=
+_licenca.dll=
+_objetivo.dll=
+
+[Package|Instalação do Pró Ótica 2004 (Standard)|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\RibaCaixa.ocx=
+C:\WINDOWS\SYSTEM\actskin4.ocx=
+C:\WINDOWS\SYSTEM\vbskpro2.ocx=
+C:\WINDOWS\SYSTEM\SPR32X30.ocx=
+C:\Program Files\Common Files\System\ado\msado25.tlb=
+C:\WINDOWS\system32\actskin4.ocx=
+C:\WINNT\system32\actskin4.ocx=
+C:\Arquivos de programas\Arquivos comuns\SYSTEM\ole db\oledb32.dll=
+C:\Arquivos de programas\Arquivos comuns\SYSTEM\ADO\msado26.tlb=
+C:\WINXP\system32\actskin4.ocx=
+C:\WINXP\system32\SPR32X60.ocx=
+
+[Package|Instalação do Pró Ótica 2004 (Standard)|Out-of-Date Dependency Information]
+C:\WINXP\system32\MSCOMCTL.OCX=
+
+[Package|Instalação do Pró Ótica 2004 (Standard)|Files Added]
+C:\Infodigital\Sistemas\ProOtica2004\prootica2004.mdb=
+C:\Infodigital\Sistemas\ProOtica2004\_copyright.dll=
+C:\Infodigital\Sistemas\ProOtica2004\_LICENCA.DLL=
+C:\Infodigital\Sistemas\ProOtica2004\_objetivo.dll=
+C:\Infodigital\Sistemas\ProOtica2004\Mac.skn=
+C:\Infodigital\Sistemas\ProOtica2004\OTICA.ICO=
+
+[Package|Instalação do Pró Ótica 2004 (Standard)|Files Removed]
+c:\windows\system\vbskpro2.ocx=
+c:\program files\common files\system\ado\msado25.tlb=
+c:\windows\system32\msstdfmt.dll=
+c:\windows\system32\mfc42.dll=
+c:\windows\system32\msvcrt.dll=
+
+[Package|Instalação do Pró Ótica 2004 (Standard)|Files In Project]
+C:\Arquivos de programas\Arquivos comuns\designer\MSDERUN.DLL=Yes
+C:\Infodigital\Sistemas\ProOtica2004\ProOtica2004.exe=Yes
+C:\WINXP\system32\msvbvm60.dll=Yes
+C:\WINXP\system32\actskin4.ocx=Yes
+C:\WINXP\system32\MSDBRPTR.DLL=Yes
+C:\WINXP\system32\MSSTDFMT.DLL=Yes
+C:\WINXP\system32\MSBIND.DLL=Yes
+C:\Arquivos de programas\Arquivos comuns\SYSTEM\ADO\msado26.tlb=Yes
+C:\WINXP\system32\RICHTX32.OCX=Yes
+C:\WINXP\system32\MSCOMCTL.OCX=Yes
+C:\WINXP\system32\MSADODC.OCX=Yes
+C:\WINXP\system32\VB6STKIT.DLL=Yes
+C:\Infodigital\Sistemas\ProOtica2004\prootica2004.mdb=Yes
+C:\Infodigital\Sistemas\ProOtica2004\_copyright.dll=Yes
+C:\Infodigital\Sistemas\ProOtica2004\_LICENCA.DLL=Yes
+C:\Infodigital\Sistemas\ProOtica2004\_objetivo.dll=Yes
+C:\Infodigital\Sistemas\ProOtica2004\Mac.skn=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINXP\system32\SPR32X60.ocx=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Instalação do Pró Ótica 2004 (Standard)|Configure Registry Files]
+Applicable=No
+
+[Package|Instalação do Pró Ótica 2004 (Standard)|Configure Remote Servers]
+Applicable=No
+
+[Package|Instalação do Pró Ótica 2004 (Standard)|Install Locations]
+C:\_Projetos\ProOtica2004\ProOtica2004.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\RibaCaixa.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=$(WinSysPath)
+C:\Arquivos de programas\Spread30\BIN\SPR32X30.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MFC42.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\_Projetos\ProOtica2004\_objetivo.dll=$(AppPath)
+C:\_Projetos\ProOtica2004\_licenca.dll=$(AppPath)
+C:\_Projetos\ProOtica2004\_copyright.dll=$(AppPath)
+C:\WINDOWS\SYSTEM\SPR32X30.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\actskin4.ocx=$(WinSysPath)
+C:\_Projetos\ProOtica2004\Mac.skn=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM50.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\actskin4.ocx=$(WinSysPath)
+C:\Program Files\Common Files\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\SPR32X30.ocx=$(WinSysPath)
+C:\WINDOWS\system32\mfc42.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\setup1.exe=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\_Projetos\ProOtica2004\prootica2004.mdb=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\actskin4.ocx=$(WinSysPath)
+C:\Arquivos de programas\Arquivos comuns\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINNT\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINNT\system32\RICHTX32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\mfc42.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Arquivos comuns\SYSTEM\ole db\oledb32.dll=$(WinSysPath)
+C:\Infodigital\Sistemas\ProOtica2004\ProOtica2004.exe=$(AppPath)
+C:\WINXP\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINXP\system32\actskin4.ocx=$(WinSysPath)
+C:\WINXP\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINXP\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINXP\system32\MSBIND.DLL=$(WinSysPath)
+C:\Arquivos de programas\Arquivos comuns\SYSTEM\ADO\msado26.tlb=$(WinSysPath)
+C:\WINXP\system32\RICHTX32.OCX=$(WinSysPath)
+C:\WINXP\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINXP\system32\MSADODC.OCX=$(WinSysPath)
+C:\Arquivos de programas\Spread60\Bin\SPR32X60.ocx=$(WinSysPath)
+C:\WINXP\system32\mfc42.dll=$(WinSysPathSysFile)
+C:\WINXP\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINXP\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Infodigital\Sistemas\ProOtica2004\prootica2004.mdb=$(AppPath)
+C:\Infodigital\Sistemas\ProOtica2004\_copyright.dll=$(AppPath)
+C:\Infodigital\Sistemas\ProOtica2004\_LICENCA.DLL=$(AppPath)
+C:\Infodigital\Sistemas\ProOtica2004\_objetivo.dll=$(AppPath)
+C:\Infodigital\Sistemas\ProOtica2004\Mac.skn=$(AppPath)
+C:\Infodigital\Sistemas\ProOtica2004\OTICA.ICO=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINXP\system32\SPR32X60.ocx=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Instalação do Pró Ótica 2004 (Standard)|Configure Shared Files]
+Applicable=Yes
+C:\_Projetos\ProOtica2004\ProOtica2004.exe=No
+C:\_Projetos\ProOtica2004\_objetivo.dll=No
+C:\_Projetos\ProOtica2004\_licenca.dll=No
+C:\_Projetos\ProOtica2004\_copyright.dll=No
+C:\_Projetos\ProOtica2004\Mac.skn=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\_Projetos\ProOtica2004\prootica2004.mdb=No
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Infodigital\Sistemas\ProOtica2004\ProOtica2004.exe=No
+C:\Infodigital\Sistemas\ProOtica2004\prootica2004.mdb=No
+C:\Infodigital\Sistemas\ProOtica2004\_copyright.dll=No
+C:\Infodigital\Sistemas\ProOtica2004\_LICENCA.DLL=No
+C:\Infodigital\Sistemas\ProOtica2004\_objetivo.dll=No
+C:\Infodigital\Sistemas\ProOtica2004\Mac.skn=No
+C:\Infodigital\Sistemas\ProOtica2004\OTICA.ICO=No
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Instalação do Pró Ótica 2004 (Standard)|Distribution]
+Type=single
+Size=
+Title=Pró Ótica 2004
+
+[Package|Instalação do Pró Ótica 2004 (Standard)|IconGroups]
+Group0=Pró Ótica 2004
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Instalação do Pró Ótica 2004 (Standard)|Pró Ótica 2004]
+Icon1=ProOtica2004.exe
+Title1=Pró Ótica 2004
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Instalação do Pró Ótica 2004 (Standard)|Package]
+PackageFolder=C:\Infodigital\Sistemas\ProOtica2004\Install_SetupIngles
+ProjectFolder=C:\Infodigital\Sistemas\ProOtica2004
+ServerSideCab=
+File1=C:\Infodigital\Sistemas\ProOtica2004\Install_SetupIngles\setup.exe
+File2=C:\Infodigital\Sistemas\ProOtica2004\Install_SetupIngles\Setup.Lst
+File3=C:\Infodigital\Sistemas\ProOtica2004\Install_SetupIngles\ProOtica2004.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
